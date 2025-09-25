@@ -39,7 +39,3 @@ console.log("Fun fact: My favorite hobby is cars 🏎️");
 [<img width="35" height="35" src="https://www.svgrepo.com/show/13639/instagram.svg">](https://www.instagram.com/michellavezzo)
 
 <br />
-
-![Michel github stats](https://github-readme-stats.vercel.app/api?username=michellavezzo&show_icons=true&theme=dark)
-
-<br />
