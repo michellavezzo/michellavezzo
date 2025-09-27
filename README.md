@@ -24,6 +24,7 @@ console.log("Fun fact: My favorite hobby is cars 🏎️");
 [<img alt="Capacitor / Ionic" width="35" src="https://avatars.githubusercontent.com/u/3171503?s=200&v=4" />](https://capacitorjs.com/)
 [<img alt="Nextjs" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">](https://nextjs.org/)
 [<img alt="Node.js" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img alt="Python" width="35" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />](https://www.python.org/)
 
 <br />
 
