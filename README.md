@@ -40,3 +40,5 @@ console.log("Fun fact: My favorite hobby is cars 🏎️");
 [<img width="35" height="35" src="https://www.svgrepo.com/show/13639/instagram.svg">](https://www.instagram.com/michellavezzo)
 
 <br />
+
+🌐 https://michellavezzo.vercel.app/
